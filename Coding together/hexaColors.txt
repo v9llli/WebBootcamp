@@ -1,0 +1,9 @@
+body  #dbdbdb
+
+container #B9B9B9
+
+pckku #10a76d
+
+inputs rgba(255, 255, 255, 0.491)
+
+borderInputs rgba(117, 117, 117, 0.435);
